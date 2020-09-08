@@ -30,10 +30,11 @@ PS：最好还要有一定的Linux基础。
 复制下面的指令，每次只能复制一条，按回车键运行，按顺序操作
 
 下载一键安装脚本:
-
+```shell script
 pkg install wget openssl-tool proot -y && hash -r &&  
 wget https://raw.githubusercontent.com/niezhe/Android_linux/master/install_system.sh &&   
 bash install_system.sh  
+```
 
 输入2后按回车键自动安装系统，我全程挂VPN，一次成功，安装过程中会有提示（Y/N），一律全部输入Y后按回车键，中途提示获取手机存储权限请点击允许。没有点击允许的请自行到手机安全中心开启存储权限。
 
