@@ -19,7 +19,8 @@ PS：最好还要有一定的Linux基础。
 本次教程采用的是Ubuntu的ARM64版操作系统，理论上所有Ubuntu操作系统都可以。
 
 ###第一步：下载安装Termux汉化版
-下载地址：https://www.lanzous.com/b776387/ 
+下载地址：https://www.lanzous.com/b776387/
+
 密码:jenny
 
 这会进入短暂的安装中。。。。。。。。。。
